@@ -77,3 +77,4 @@ module.exports = {
 
 ```
 
+![webpack img](assets/webpack1.png)
